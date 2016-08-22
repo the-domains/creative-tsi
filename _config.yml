@@ -1,4 +1,3 @@
-layout_spectrum: 0.04356461949646473
 typography_spectrum: 0.5742546443361789
 color:
   brandStrength: 0.726285403361544
@@ -6,9 +5,14 @@ color:
   saturation: 0.4049147102050483
   rhythmicContrast: 0.7118770333472639
   brandColors:
-    - '#FFFFFF'
-    - '#054D87'
-    - '#676767'
-    - '#AEAEAE'
-    - '#CFCFCF'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+layout_spectrum: 0.04356461949646473
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e1cc59a-c93e-4a4c-9f7c-c22c8230335b.jpg
 name: Creative TSI
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8cf5255-e1d7-4033-b28e-c7d9f96ea8e7.png
